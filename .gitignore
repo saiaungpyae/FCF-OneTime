@@ -1,0 +1,6 @@
+%RESOURCE_DIR%/
+functions/etc/
+node_modules/
+.gitignore
+.firebaserc
+functions/.eslintrc.json
